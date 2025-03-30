@@ -1,0 +1,26 @@
+{
+  "name": "typescript-projects",
+  "version": "1.0.0",
+  "description": "\"# Typescript-projects\"",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiz-xyz/Typescript-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moiz-xyz/Typescript-projects/issues"
+  },
+  "homepage": "https://github.com/moiz-xyz/Typescript-projects#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^12.5.0"
+  }
+}
